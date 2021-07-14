@@ -45,7 +45,7 @@ async def start(c, m, cb=False):
         InlineKeyboardButton(f'{MAN_TEACHER_LIGHT_SKIN_TONE} My Owner', url=f'https://t.me/{owner_username}'),
         InlineKeyboardButton(f'{ROBOT} About', callback_data='about')
         ],
-        [InlineKeyboardButton(f'{arrow_up} Help', url=f'https://t.me/PremiumValleyUpdates'),
+        [InlineKeyboardButton(f'{ARROW_UP} Help', url=f'https://t.me/PremiumValleyUpdates'),
         InlineKeyboardButton(f'{sos} Close', url=f'https://t.me/PremiumValleySupport')
     ],
         [InlineKeyboardButton(f'{INFORMATION} Help', callback_data="help"),
