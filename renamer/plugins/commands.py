@@ -46,7 +46,7 @@ async def start(c, m, cb=False):
         InlineKeyboardButton(f'{ROBOT} About', callback_data='about')
         ],
         [InlineKeyboardButton(f'⬆️ Updates', url=f'https://t.me/PremiumValleyUpdates'),
-        InlineKeyboardButton(f'{sos} Support', url=f'https://t.me/PremiumValleySupport')
+        InlineKeyboardButton(f' 🆘 Support', url=f'https://t.me/PremiumValleySupport')
     ],
         [InlineKeyboardButton(f'{INFORMATION} Help', callback_data="help"),
         InlineKeyboardButton(f'{NO_ENTRY} Close', callback_data="close")
