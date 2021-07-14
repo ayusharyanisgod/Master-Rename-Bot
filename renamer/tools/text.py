@@ -22,9 +22,9 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [PREMIUM VALLEY UPDATES](https://t.me/Ns_bot_updates)
+** Channel:** [PREMIUM VALLEY UPDATES](https://t.me/PremiumValleyUpdates)
 
-** Group:** [PREMIUM VALLEY SUPPORT](https://t.me/Ns_Bot_supporters)
+** Group:** [PREMIUM VALLEY SUPPORT](https://t.me/PremiumValleySupport)
 
 """
 
