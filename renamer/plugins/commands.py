@@ -18,8 +18,8 @@ async def help(c, m, cb=False):
         InlineKeyboardButton(f'{MONEY_BAG} Donate', callback_data='donate')
         ],
                 [
-        InlineKeyboardButton(f'⬆️ Updates', url=f'https://t.me/PremiumValleyUpdates'),
-        InlineKeyboardButton(f' 🆘 Support', url=f'https://t.me/PremiumValleySupport')
+        InlineKeyboardButton(f'⬆️ Updates', url=f'https://t.me/MetaverseNetwork'),
+        InlineKeyboardButton(f' 🆘 Support', url=f'https://t.me/MetaverseNetwork')
         ],
         [
         InlineKeyboardButton(f'{NO_ENTRY} 𝙲𝚕𝚘𝚜𝚎', callback_data='close')
@@ -50,8 +50,8 @@ async def start(c, m, cb=False):
         InlineKeyboardButton(f'{MAN_TEACHER_LIGHT_SKIN_TONE} My Owner', url=f'https://t.me/{owner_username}'),
         InlineKeyboardButton(f'{ROBOT} About', callback_data='about')
         ],
-        [InlineKeyboardButton(f'⬆️ Updates', url=f'https://t.me/PremiumValleyUpdates'),
-        InlineKeyboardButton(f' 🆘 Support', url=f'https://t.me/PremiumValleySupport')
+        [InlineKeyboardButton(f'⬆️ Updates', url=f'https://t.me/MetaverseNetwork'),
+        InlineKeyboardButton(f' 🆘 Support', url=f'https://t.me/MetaverseNetwork')
     ],
         [InlineKeyboardButton(f'{INFORMATION} Help', callback_data="help"),
         InlineKeyboardButton(f'{NO_ENTRY} Close', callback_data="close")
@@ -85,8 +85,8 @@ async def about(c, m, cb=False):
         ],
         
         [
-        InlineKeyboardButton(f'⬆️ Updates', url=f'https://t.me/PremiumValleyUpdates'),
-        InlineKeyboardButton(f' 🆘 Support', url=f'https://t.me/PremiumValleySupport')
+        InlineKeyboardButton(f'⬆️ Updates', url=f'https://t.me/MetaverseNetwork'),
+        InlineKeyboardButton(f' 🆘 Support', url=f'https://t.me/MetaverseNetwork')
         ],
         
         [
